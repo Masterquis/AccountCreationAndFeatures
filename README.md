@@ -3,7 +3,7 @@
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
-This lab will demonstrate how to use active directory to Search for users when their user group is unknown and determine what group a user is a part of by enabling advanced features. It will also demonstrate how to enable "Recycling Bin" via Windows Administrator Center. It will demonstrate how to create a new user from scratch, but most importantly it will demonstrate how to AUTOMATE user creation with appropriate roles and abilities already intact.
+This lab will demonstrate how to use active directory to Search for users when their user group is unknown and determine what group a user is a part of by enabling advanced features. It will also demonstrate how to enable "Recycling Bin" via Windows Administrator Center. It will demonstrate how to create a new user from scratch, it will also demonstrate more efficient user creation with appropriate roles and abilities already intact.
 <br />
 
 
