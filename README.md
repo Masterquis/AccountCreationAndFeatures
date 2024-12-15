@@ -9,12 +9,12 @@ This lab will demonstrate how to use active directory to Search for users when t
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Virtual Box</b> 
-- <b>Windows Server 2016</b>
+- <b>Virtual Box</b>
+- <b>Active Directory</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
+- <b>Windows Server</b>
 
 <h2>Program walk-through:</h2>
 
